@@ -97,7 +97,7 @@ Incorrectas: 1
 
 ```bash
 # Compila las clases de main
-javac -d out src/main/ejercico1/AlgoritmosEjemplo.java src/main/ejercico1/RespuestasComplejidad.java
+javac -d out src/main/ejercicio1/AlgoritmosEjemplo.java src/main/ejercicio1/RespuestasComplejidad.java
 
 # Compila el test, agregando todos los jars y el classpath de salida
 javac -d out -cp "out:lib/*" src/test/TestComplejidadJUnit.java
