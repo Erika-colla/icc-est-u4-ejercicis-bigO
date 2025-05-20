@@ -61,7 +61,7 @@ Este archivo compara tus respuestas con las correctas y muestra un reporte indic
 ##### **Cómo ejecutar los tests automáticos:**
 
 
-1. Compila primero el código fuente:
+1. Compila primero el código fuente :
 
    ```bash
    javac -d out src/main/ejercico1/AlgoritmosEjemplo.java src/main/ejercico1/RespuestasComplejidad.java
